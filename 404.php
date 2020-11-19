@@ -3,7 +3,7 @@
 <title>DentalClinic - Responsive Clinic HTML Template</title>
 
 
-<div class="page-title page-title-about bg-pattern" data-bgcolor="4E7B90">
+<div class="page-title page-title-about bg-pattern" data-bgcolor="1a1472">
   <div class="page-title-overlay">
     <div class="container">
       <h1>PAGE NOT FOUND</h1>

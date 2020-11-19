@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <?php include 'header.php';?>
+<title>Teeth Whitening Spa 2 - Home</title>
 <div id="slider" class="slider">
   <div class="sp-slides">
     <div class="sp-slide"> <img class="sp-image" src="css/images/blank.gif" alt=""
@@ -280,13 +281,12 @@
   <div class="numbers-overlay">
     <div class="container">
       <div class="row">
-        <h2 class="section-title"> <span class="bold700"> Dental Clinic </span> in numbers</h2>
-        <p class="section-subtitle">We can talk for a long time about advantages of our Dental clinic before other medical treatment facilities.<br>
-          But you can read the following facts in order to make sure of all pluses of our clinic:</p>
+        <h2 class="section-title"> <span class="bold700"> Teeth Whitening Spa 2 </span> in numbers</h2>
+        <p class="section-subtitle">We have the experience to meet every patient's needs.</p>
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 numbers-item">
           <div id="num1" class="numbers-item-number">12</div>
           <div class="numbers-item-title">YEARS<br>
-            OF EXPEREANCE</div>
+            OF EXPERIENCE</div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 numbers-item">
           <div id="num2" class="numbers-item-number">2405</div>

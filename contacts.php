@@ -3,7 +3,7 @@
 
 <title>DentalClinic - Responsive Clinic HTML Template</title>
 
-<div class="page-title page-title-contacts bg-pattern" data-bgcolor="3B4B89">
+<div class="page-title page-title-contacts bg-pattern" data-bgcolor="282f95">
   <div class="page-title-overlay">
     <div class="container">
       <h1>CONTACT US</h1>

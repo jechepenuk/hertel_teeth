@@ -2,7 +2,7 @@
 <?php include "header.php"?>
 <title>DentalClinic - Responsive Clinic HTML Template</title>
 
-<div class="page-title page-title-doctor bg-pattern" data-bgcolor="2BAAA1">
+<div class="page-title page-title-doctor bg-pattern" data-bgcolor="1a1472">
   <div class="page-title-overlay">
     <div class="container">
       <h1>MEET OUR DOCTORS</h1>

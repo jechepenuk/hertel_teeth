@@ -3,7 +3,7 @@
 <title>DentalClinic - Responsive Clinic HTML Template</title>
 
 
-<div class="page-title page-title-about bg-pattern" data-bgcolor="064F56">
+<div class="page-title page-title-about bg-pattern" data-bgcolor="1a1472">
   <div class="page-title-overlay">
     <div class="container">
       <h1>PAYMENTS</h1>

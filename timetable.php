@@ -2,7 +2,7 @@
 <?php include "header.php"?>
 <title>DentalClinic - Responsive Clinic HTML Template</title>
 
-<div class="page-title page-title-timetable bg-pattern" data-bgcolor="0B2F3A">
+<div class="page-title page-title-timetable bg-pattern" data-bgcolor="1a1472">
   <div class="page-title-overlay">
     <div class="container">
       <h1>TIMETABLE</h1>
