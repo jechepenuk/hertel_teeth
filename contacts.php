@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php include "header.php";?>
 
-<title>DentalClinic - Responsive Clinic HTML Template</title>
+<title>Teeth Whitening Spa 2 - Contacts</title>
 
 <div class="page-title page-title-contacts bg-pattern" data-bgcolor="282f95">
   <div class="page-title-overlay">

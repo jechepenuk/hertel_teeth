@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php include "header.php"?>
-<title>DentalClinic - Responsive Clinic HTML Template</title>
+<title>Teeth Whitening Spa 2 - Specialists</title>
 
 <div class="page-title page-title-doctor bg-pattern" data-bgcolor="1a1472">
   <div class="page-title-overlay">

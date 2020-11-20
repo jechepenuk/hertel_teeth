@@ -39,7 +39,7 @@
               Closed </div>
           </div>
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer-copyright">
-            <div> Copyright &copy; 2020 <a href="https://themeforest.net/item/dentalclinic-responsive-clinic-html-template/17390217" target="_blank">Teeth Whitening Spa 2</a></div>
+            <div> Copyright &copy; 2020 Teeth Whitening Spa 2</a></div>
           </div>
         </div>
       </div>

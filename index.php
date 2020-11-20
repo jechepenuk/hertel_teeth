@@ -133,7 +133,7 @@
     </div>
   </div>
 </div>
-<div class="certs">
+<!-- <div class="certs">
   <div class="container">
     <div class="row">
       <h3>Certificates of completion</h3>
@@ -152,20 +152,19 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <div class="doctors">
   <div class="container">
     <div class="row">
-      <h2 class="section-title">MEET <span class="bold700"> OUR DOCTORS </span> </h2>
-      <p class="section-subtitle">All staff members of Dental Clinic are licensed professionals. Our staff consists of licensed general dentists, hygienists, dental assis-<br>
-        tants, an endodontist, a periodontist, and an oral surgeon.</p>
+      <h2 class="section-title">MEET <span class="bold700"> THE PROFESSIONALS </span> </h2>
+      <p class="section-subtitle">All staff members of Teeth Whitening Spa 2 are licensed professionals.</p>
       <div class="doctors-container">
         <div class="owl-doctors" id="owl-doctors">
           <div class="doctors-item">
             <div class="doctors-item-container">
               <div class="doctors-item-image"> <img src="images/doctor1.jpg" alt="" /> </div>
               <div class="doctors-item-name">Wyatt Esmond</div>
-              <div class="doctors-item-position">General Dentist</div>
+              <div class="doctors-item-position">Specialist</div>
             </div>
             <div class="doctors-item-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-skype"></i></a> </div>
             <div class="doctors-item-button"> <a href="#bookform2" class="fancybox-1 btn btn-default"> <span class="plus"> + </span> BOOK APPOINTMENT</a> </div>
@@ -174,7 +173,7 @@
             <div class="doctors-item-container">
               <div class="doctors-item-image"> <img src="images/doctor2.jpg" alt="" /> </div>
               <div class="doctors-item-name">Arnie Alban</div>
-              <div class="doctors-item-position">Pedodontics</div>
+              <div class="doctors-item-position">Specialist</div>
             </div>
             <div class="doctors-item-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-skype"></i></a> </div>
             <div class="doctors-item-button"> <a href="#bookform3" class="fancybox-1 btn btn-default"> <span class="plus"> + </span> BOOK APPOINTMENT</a> </div>
@@ -183,7 +182,7 @@
             <div class="doctors-item-container">
               <div class="doctors-item-image"> <img src="images/doctor3.jpg" alt="" /> </div>
               <div class="doctors-item-name">Dustin Callahan</div>
-              <div class="doctors-item-position">Orthodontist</div>
+              <div class="doctors-item-position">Specialist</div>
             </div>
             <div class="doctors-item-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-skype"></i></a> </div>
             <div class="doctors-item-button"> <a href="#bookform4" class="fancybox-1 btn btn-default"> <span class="plus"> + </span> BOOK APPOINTMENT</a> </div>
@@ -192,7 +191,7 @@
             <div class="doctors-item-container">
               <div class="doctors-item-image"> <img src="images/doctor4.jpg" alt="" /> </div>
               <div class="doctors-item-name">Kristin Weaver</div>
-              <div class="doctors-item-position">Hygienist</div>
+              <div class="doctors-item-position">Specialist</div>
             </div>
             <div class="doctors-item-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-skype"></i></a> </div>
             <div class="doctors-item-button"> <a href="#bookform5" class="fancybox-1 btn btn-default"> <span class="plus"> + </span> BOOK APPOINTMENT</a> </div>
@@ -201,7 +200,7 @@
             <div class="doctors-item-container">
               <div class="doctors-item-image"> <img src="images/doctor5.jpg" alt="" /> </div>
               <div class="doctors-item-name">Leslie Adams</div>
-              <div class="doctors-item-position">Prosthodontics</div>
+              <div class="doctors-item-position">Specialist</div>
             </div>
             <div class="doctors-item-social"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-skype"></i></a> </div>
             <div class="doctors-item-button"> <a href="#bookform6" class="fancybox-1 btn btn-default"> <span class="plus"> + </span> BOOK APPOINTMENT</a> </div>
@@ -213,7 +212,7 @@
     </div>
   </div>
 </div>
-<div class="booking">
+<!-- <div class="booking">
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> </div>
@@ -276,13 +275,13 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <div class="numbers" id="numbers">
   <div class="numbers-overlay">
     <div class="container">
       <div class="row">
         <h2 class="section-title"> <span class="bold700"> Teeth Whitening Spa 2 </span> in numbers</h2>
-        <p class="section-subtitle">We have the experience to meet every patient's needs.</p>
+        <p class="section-subtitle">We have the experience to meet every patients' needs.</p>
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 numbers-item">
           <div id="num1" class="numbers-item-number">12</div>
           <div class="numbers-item-title">YEARS<br>
@@ -294,7 +293,7 @@
         </div>
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 numbers-item">
           <div id="num3" class="numbers-item-number">84</div>
-          <div class="numbers-item-title">QUALIFIED STUFF</div>
+          <div class="numbers-item-title">QUALIFIED STAFF</div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 numbers-item">
           <div id="num4" class="numbers-item-number">67</div>
@@ -309,7 +308,7 @@
   <div class="container">
     <div class="row">
       <h2 class="section-title"> <span class="bold700"> SUCCESS </span> STORIES</h2>
-      <p class="section-subtitle">Happy patients stories</p>
+      <!-- <p class="section-subtitle">Happy patients stories</p> -->
       <div class="certs-container">
         <div class="owl-stories" id="owl-stories">
           <div class="stories-item">
@@ -628,7 +627,7 @@
     </div>
   </div>
 </div>
-<div class="clients">
+<!-- <div class="clients">
   <div class="container">
     <div class="row">
       <p class="section-subtitle">PARTNER COMPANIES</p>
@@ -647,7 +646,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <?php include 'footer.php';?>
 </body>
 </html>

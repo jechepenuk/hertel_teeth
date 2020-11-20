@@ -60,7 +60,7 @@ h1,h2,h3,h4,h5,h6{
 	color:#1a1472
 }
 .color-primary-2{
-	color:#ffd700
+	color:#1a1472
 }
 .color-child-5{
 	color:#13cfd7
@@ -95,7 +95,7 @@ a{
 	outline:0
 }
 a:hover,a:focus{
-	color:#ffd700;
+	color:#1a1472;
 	text-decoration:none;
 	outline:0
 }
@@ -131,13 +131,13 @@ ul.text-list li:before{
 	background:#1a1472
 }
 input,textarea{
-	border:2px solid #ffeb77;
+	border:2px solid #1a1472;
 	border-radius:5px;
 	padding:15px;
 	outline:0
 }
 input:focus,textarea:focus{
-	border:2px solid #ffd700
+	border:2px solid #1a1472
 }
 frame{
 	border:0
@@ -159,11 +159,11 @@ frame{
 	color:#fff
 }
 .help-green{
-	color:#ffd700;
-	border:2px solid #ffd700
+	color:#1a1472;
+	border:2px solid #1a1472
 }
 .help-green:hover{
-	background:#ffd700;
+	background:#1a1472;
 	color:#fff
 }
 .help-red{
@@ -193,7 +193,7 @@ frame{
 	padding:9px 40px
 }
 .btn-default{
-	background:#ffd700;
+	background:#1a1472;
 	color:black;
 	border:0;
 	border-radius:20px;
@@ -243,7 +243,7 @@ frame{
 	padding:5px 40px
 }
 .carousel-btn{
-	background:#ffeb77;
+	background:#1a1472;
 	width:30px;
 	height:30px;
 	border-radius:50%;
@@ -280,7 +280,7 @@ frame{
 }
 .datepicker th.picker-switch:hover{
 	color:#fff!important;
-	background:#ffd700!important
+	background:#1a1472!important
 }
 .datepicker th.prev{
 	border-radius:0!important;
@@ -288,7 +288,7 @@ frame{
 }
 .datepicker th.prev:hover{
 	color:#fff!important;
-	background:#ffd700!important
+	background:#1a1472!important
 }
 .datepicker th.next{
 	border-radius:0!important;
@@ -296,22 +296,22 @@ frame{
 }
 .datepicker th.next:hover{
 	color:#fff!important;
-	background:#ffd700!important
+	background:#1a1472!important
 }
 .datepicker td.day.active.today{
-	background:#ffd700!important;
+	background:#1a1472!important;
 	border-radius:0!important;
 	color:#fff!important;
 	text-shadow:none!important
 }
 .datepicker td.day.active{
-	background:#ffd700!important;
+	background:#1a1472!important;
 	border-radius:0!important;
 	color:#fff!important;
 	text-shadow:none!important
 }
 .datepicker td.day.today{
-	background:#ffd700!important;
+	background:#1a1472!important;
 	border-radius:0!important;
 	color:#fff!important;
 	text-shadow:none!important
@@ -321,24 +321,24 @@ frame{
 }
 .datepicker td.day:hover{
 	color:#fff!important;
-	background:#ffd700!important
+	background:#1a1472!important
 }
 .datepicker td.day.old{
-	color:#ffeb77!important
+	color:#1a1472!important
 }
 .datepicker td.day.old:hover{
 	color:#fff!important;
-	background:#ffd700!important
+	background:#1a1472!important
 }
 .datepicker td.day.new{
 	color:#becacf!important
 }
 .datepicker td.day.new:hover{
 	color:#fff!important;
-	background:#ffd700!important
+	background:#1a1472!important
 }
 .bootstrap-datetimepicker-widget table td span.active{
-	background-color:#ffd700!important;
+	background-color:#1a1472!important;
 	color:#fff;
 	text-shadow:none!important
 }
@@ -358,14 +358,14 @@ frame{
 }
 .time-f .bootstrap-datetimepicker-widget table td span:hover{
 	color:#fff;
-	background:#ffd700
+	background:#1a1472
 }
 .time-f .bootstrap-datetimepicker-widget table td{
 	height:30px;
 	line-height:30px
 }
 .time-f .bootstrap-datetimepicker-widget table td.day:hover,.time-f .bootstrap-datetimepicker-widget table td.hour:hover,.time-f .bootstrap-datetimepicker-widget table td.minute:hover,.time-f .bootstrap-datetimepicker-widget table td.second:hover{
-	background:#ffd700;
+	background:#1a1472;
 	border-radius:3px;
 	color:#fff
 }
@@ -382,7 +382,7 @@ frame{
 	padding:12px 0
 }
 .top-bar i{
-	color:#acb8bc
+	color:#1a1472
 }
 .top-bar-adress i{
 	margin-right:5px
@@ -425,7 +425,7 @@ frame{
 }
 .header-phone{
 	float:right;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	font-size:18px;
 	padding:7px 23px;
 	border-radius:20px;
@@ -433,7 +433,7 @@ frame{
 	margin-top:27px
 }
 .header-phone i{
-	color:#ffd700;
+	color:#1a1472;
 	margin-right:5px;
 	font-size:22px;
 	position:relative;
@@ -445,7 +445,8 @@ frame{
 	margin-top:27px
 }
 .header-button .btn{
-	padding:9px 23px
+	padding:9px 23px;
+	color:white;
 }
 .header-button .plus{
 	line-height:0;
@@ -453,6 +454,11 @@ frame{
 	position:relative;
 	top:2px;
 	left:-7px
+}
+.header-button .btn:hover{
+	background:white;
+	color:#1a1472;
+	border: 1px solid #1a1472;
 }
 .logo-for-mobile{
 	float:left;
@@ -485,7 +491,7 @@ frame{
 }
 .top-menu{
 	background:#fff;
-	border-top:1px solid #ffeb77;
+	border-top:1px solid #1a1472;
 	box-shadow:0 3px 5px rgba(0,0,0,0.1);
 	z-index:111;
 	width:100%
@@ -621,14 +627,14 @@ frame{
 .slider .sp-button{
 	width:8px;
 	height:8px;
-	background:#acb8bc;
+	background:#1a1472;
 	border:0
 }
 .slider .sp-selected-button{
 	width:12px;
 	height:12px;
 	background:#fff;
-	/* border:2px solid #acb8bc; */
+	/* border:2px solid #1a1472; */
 	position:relative;
 	top:2px
 }
@@ -746,7 +752,7 @@ frame{
 	position:relative
 }
 .doctors-item-container{
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	margin-bottom:40px
 }
 .doctors-item-image{
@@ -876,7 +882,7 @@ frame{
 	width:30%;
 	float:left;
 	background:#ebebeb;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	color:#1a1472
 }
 .doctors-text-doctor img{
@@ -903,7 +909,7 @@ frame{
 }
 .doctor-info{
 	background:#ebebeb;
-	border:1px solid #ffeb77
+	border:1px solid #1a1472
 }
 .doctor-info-image{
 	margin-bottom:20px
@@ -961,7 +967,7 @@ frame{
 	width:35%;
 	margin-left:15%;
 	float:left;
-	color:#acb8bc;
+	color:#1a1472;
 	font-size:12px;
 	line-height:23px
 }
@@ -987,7 +993,7 @@ frame{
 }
 .doctor-text-quote{
 	background:#ebebeb;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	padding:30px 30px 45px;
 	font-style:italic;
 	position:relative;
@@ -1008,7 +1014,7 @@ frame{
 }
 .doctor-text-booking{
 	background:#ebebeb;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	padding:50px 80px;
 	margin-top:70px
 }
@@ -1116,7 +1122,7 @@ frame{
 	font-size:17px;
 	left:30px;
 	top:14px;
-	color:#ffd700
+	color:#1a1472
 }
 .booking-form-item.has-error:before{
 	color:#f9755f
@@ -1245,7 +1251,7 @@ frame{
 }
 .stories-item-before{
 	float:left;
-	border:10px solid #ffeb77;
+	border:10px solid #1a1472;
 	width:40%;
 	margin-top:28px
 }
@@ -1255,7 +1261,7 @@ frame{
 .stories-item-before-title{
 	color:#1a1472;
 	text-align:center;
-	background:#ffeb77;
+	background:#1a1472;
 	padding-top:10px
 }
 .stories-item-after{
@@ -1277,13 +1283,13 @@ frame{
 	margin-left:0
 }
 .br-theme-fontawesome-stars-o .br-widget a.br-active:after{
-	color:#ffd700
+	color:#1a1472
 }
 .br-theme-fontawesome-stars-o .br-widget a.br-selected:after{
-	color:#ffd700
+	color:#1a1472
 }
 .br-theme-fontawesome-stars-o .br-widget a.br-fractional:after{
-	color:#ffd700
+	color:#1a1472
 }
 .review{
 	padding:70px 0;
@@ -1309,7 +1315,7 @@ frame{
 .review-item-image{
 	float:left;
 	border-radius:50%;
-	border:2px solid #ffeb77;
+	border:2px solid #1a1472;
 	overflow:hidden;
 	margin-right:20px
 }
@@ -1371,14 +1377,14 @@ frame{
 .owl-review2 .owl-controls .owl-page span{
 	width:8px;
 	height:8px;
-	background:#acb8bc;
+	background:#1a1472;
 	opacity:1
 }
 .owl-review2 .owl-controls .owl-page.active span{
 	width:12px;
 	height:12px;
 	background:#fff;
-	border:2px solid #acb8bc;
+	border:2px solid #1a1472;
 	position:relative;
 	top:2px
 }
@@ -1485,7 +1491,7 @@ frame{
 	width:100%
 }
 .blog-2.blog .blog-item-info{
-	background:#ffeb77;
+	background:#1a1472;
 	overflow:hidden;
 	position:relative
 }
@@ -1531,7 +1537,7 @@ frame{
 }
 .blog-2.blog .blog-item-desc{
 	padding:20px 20px 50px;
-	border:1px solid #ffeb77
+	border:1px solid #1a1472
 }
 .blog-2.blog .blog-item-desc.single-desc{
 	border:0;
@@ -1562,7 +1568,7 @@ frame{
 	width:100%
 }
 .blog-2.blog .blog-item-text-image-info{
-	background:#ffeb77;
+	background:#1a1472;
 	padding:20px
 }
 .blog-2.blog .blog-item-text-image-title{
@@ -1579,8 +1585,8 @@ frame{
 	margin-right:30px
 }
 .blog-2.blog .blog-item-bottom{
-	border-top:2px solid #ffeb77;
-	border-bottom:2px solid #ffeb77;
+	border-top:2px solid #1a1472;
+	border-bottom:2px solid #1a1472;
 	padding:10px 15px;
 	overflow:hidden
 }
@@ -1627,7 +1633,7 @@ frame{
 }
 .blog-2.blog .blog-item-poster{
 	background:#ebebeb;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	border-radius:4px;
 	padding:30px;
 	overflow:hidden
@@ -1659,7 +1665,7 @@ frame{
 .blog-2.blog .blog-item-media{
 	overflow:hidden;
 	margin:0 0 20px 0;
-	border-top:1px solid #ffeb77
+	border-top:1px solid #1a1472
 }
 .blog-2.blog .blog-item-media-title{
 	margin:50px 0 10px;
@@ -1667,7 +1673,7 @@ frame{
 }
 .blog-2.blog .blog-item-commform{
 	background:#ebebeb;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	border-radius:3px;
 	padding:50px;
 	margin-top:50px
@@ -1699,7 +1705,7 @@ frame{
 	font-size:25px
 }
 .related-items{
-	border-top:2px solid #ffeb77;
+	border-top:2px solid #1a1472;
 	padding-top:30px;
 	margin-bottom:40px
 }
@@ -1733,28 +1739,29 @@ frame{
 }
 .tipsfaq{
 	background:url('../images/bg_pattern_faq.png');
-	padding:70px 0
+	padding:70px 0;
 }
 .tips-tabs{
 	position:relative;
 	height:50px;
 	overflow:hidden;
-	background:#ffeb77
+	background:#ffffff
 }
 .tips-tabs .tabs-carousel{
 	position:absolute;
 	left:30px;
 	top:0;
 	width:100%;
-	transition:left 200ms
+	transition:left 200ms;
+	color:white
 }
 .tips-btn{
 	position:absolute;
 	width:30px;
 	height:50px;
 	top:0;
-	background:#ffeb77;
-	color:#1a1472;
+	background:#1a1472;
+	color:#ffffff !important;
 	text-align:center;
 	font-size:29px;
 	line-height:48px;
@@ -1775,7 +1782,7 @@ frame{
 	right:30px;
 	height:50px;
 	width:60px;
-	background:linear-gradient(to left,#ffeb77,rgba(228,237,238,0.3))
+	background:linear-gradient(to left,#1a1472,rgba(228,237,238,0.3))
 }
 .tips .left-fade{
 	position:absolute;
@@ -1783,7 +1790,7 @@ frame{
 	left:30px;
 	height:50px;
 	width:60px;
-	background:linear-gradient(to right,#ffeb77,rgba(228,237,238,0.3));
+	background:linear-gradient(to right,#1a1472,rgba(228,237,238,0.3));
 	display:none
 }
 .tips-content{
@@ -1824,7 +1831,7 @@ frame{
 	border:0
 }
 .nav-tabs li a{
-	background:#ffeb77;
+	background:#1a1472;
 	border:0;
 	border-top:2px solid transparent;
 	color:#1a1472;
@@ -1896,7 +1903,7 @@ frame{
 	color:#1a1472
 }
 .panel-group .panel-heading h4 a.collapsed:after{
-	background:#ffeb77;
+	background:#1a1472;
 	color:#fff;
 	content:'\f107';
 	line-height:30px
@@ -1939,10 +1946,10 @@ frame{
 	background:#1a1472
 }
 .footer a{
-	color:#ffd700
+	color:#1a1472
 }
 .footer a:hover,.footer a:focus{
-	color:#ffd700
+	color:#1a1472
 }
 .footer-title{
 	color:#fff;
@@ -1955,10 +1962,10 @@ frame{
 	margin-right:5px
 }
 .footer-title-line{
-	border-bottom:1px solid #acb8bc
+	border-bottom:1px solid #1a1472
 }
 .footer-title-line i{
-	color:#acb8bc
+	color:#1a1472
 }
 .footer-item{
 	padding:70px 30px 25px
@@ -1983,25 +1990,28 @@ frame{
 	margin-bottom:20px
 }
 .footer-item-3-phone i{
-	color:#ffd700
+	color:#ffffff
 }
 .footer-item-3-location{
 	font-size:13px;
-	color:#acb8bc;
+	color:#ffffff;
 	margin-bottom:20px
 }
 .footer-item-3-mail{
 	font-size:13px;
 	margin-bottom:20px
 }
+.footer-item-3-mail a{
+	color:white
+}
 .footer-item-3-mail i{
-	color:#acb8bc
+	color:#ffffff
 }
 .footer-item-3-socials{
 	margin-top:50px
 }
 .footer-item-3-socials a{
-	background:#1a1472;
+	background:#3428df;
 	display:inline-block;
 	width:35px;
 	height:35px;
@@ -2013,7 +2023,7 @@ frame{
 	margin-right:3px
 }
 .footer-item-3-socials a:hover{
-	background:#ffd700;
+	background:#2a65e2fd;
 	color:#fff
 }
 .footer-item-3-socials a i{
@@ -2032,13 +2042,12 @@ frame{
 	width:100%;
 }
 .footer-copyright{
-	color:#acb8bc;
 	font-size:13px;
 	padding:0 25px;
-	color:#416373
+	color:#ffffff
 }
 .footer-copyright div{
-	border-top:1px solid #0b2f3a;
+	border-top:1px solid #ffffff;
 	padding:10px 0
 }
 .tweet{
@@ -2046,16 +2055,19 @@ frame{
 	margin-bottom:15px
 }
 .tweet-text{
-	color:#acb8bc
+	color:#ffffff
+}
+.tweet-login a{
+	color:white;
 }
 .tweet-date{
-	color:#416373
+	color:#ffffff
 }
 .opening-left{
 	width:42%;
 	margin-left:7%;
 	float:left;
-	color:#acb8bc;
+	color:#ffffff;
 	font-size:13px;
 	line-height:25px
 }
@@ -2112,10 +2124,10 @@ frame{
 }
 .breadcrumbs{
 	background:#ebebeb;
-	border-bottom:1px solid #ffeb77
+	border-bottom:1px solid #1a1472
 }
 .breadcrumb{
-	color:#acb8bc;
+	color:#1a1472;
 	margin:0;
 	background:0;
 	font-size:13px;
@@ -2129,7 +2141,7 @@ frame{
 	color:#1a1472
 }
 .breadcrumb li a:hover{
-	color:#ffd700
+	color:#1a1472
 }
 .breadcrumb li.breadcrumb-home{
 	padding-left:0;
@@ -2139,7 +2151,7 @@ frame{
 	display:none
 }
 .breadcrumb li.breadcrumb-home a{
-	color:#acb8bc;
+	color:#1a1472;
 	font-size:20px
 }
 .breadcrumb li.breadcrumb-home a i{
@@ -2182,7 +2194,7 @@ frame{
 	top:auto
 }
 .history .image-carousel .carousel-btn:hover,.history .image-carousel .carousel-btn:focus{
-	background:#ffd700
+	background:#1a1472
 }
 .history .image-carousel .carousel-next{
 	left:55px
@@ -2199,16 +2211,18 @@ frame{
 	margin-bottom:20px
 }
 .make{
-	background:#ffd700;
+	background:#251ca1;
 	padding:45px 0;
 	color:#fff
 }
 .make-button{
 	padding-top:11px;
-	text-align:right
+	text-align:right;
 }
 .make-button .btn{
-	padding:9px 23px
+	padding:9px 23px;
+	color:white;
+	background: #1a1472;
 }
 .make-button .btn-default{
 	border:2px solid #fff;
@@ -2216,7 +2230,7 @@ frame{
 }
 .make-button .btn-default:hover,.make-button .btn-default:focus{
 	background:#fff;
-	color:#ffd700
+	color:#1a1472
 }
 .make-button .plus{
 	line-height:0;
@@ -2274,7 +2288,7 @@ frame{
 }
 .serv-item{
 	padding:20px;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	margin-bottom:30px
 }
 .serv-item-image{
@@ -2299,7 +2313,7 @@ frame{
 	margin-bottom:25px
 }
 .serv-item-tag{
-	background:#ffeb77;
+	background:#1a1472;
 	color:#1a1472;
 	float:right;
 	text-transform:uppercase;
@@ -2317,7 +2331,7 @@ frame{
 	border-radius:0
 }
 .pagination li a{
-	background:#ffeb77;
+	background:#1a1472;
 	border:0;
 	border-radius:50%!important;
 	margin:0 5px;
@@ -2357,7 +2371,7 @@ frame{
 	color:#1a1472
 }
 .search button:hover{
-	color:#ffd700
+	color:#1a1472
 }
 .right-bar-categories ul{
 	list-style:none;
@@ -2412,7 +2426,7 @@ frame{
 }
 .right-bar-archive-tag{
 	font-size:12px;
-	background:#ffeb77;
+	background:#1a1472;
 	float:right;
 	padding:0 7px;
 	border-radius:10px;
@@ -2423,7 +2437,7 @@ frame{
 }
 .right-bar-tags a{
 	color:#1a1472;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	font-size:13px;
 	padding:5px 15px;
 	border-radius:20px;
@@ -2454,8 +2468,8 @@ frame{
 	padding:30px 20px;
 	margin:40px 0;
 	text-align:center;
-	border-top:2px solid #ffeb77;
-	border-bottom:2px solid #ffeb77
+	border-top:2px solid #1a1472;
+	border-bottom:2px solid #1a1472
 }
 .quote-quote{
 	position:absolute;
@@ -2497,7 +2511,7 @@ frame{
 	left:15px
 }
 .image-carousel-item-info{
-	background:#ffeb77;
+	background:#1a1472;
 	padding:20px
 }
 .image-carousel-item-title{
@@ -2517,7 +2531,7 @@ frame{
 }
 .tags a{
 	color:#1a1472;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	font-size:13px;
 	padding:5px 15px;
 	border-radius:20px;
@@ -2536,7 +2550,7 @@ frame{
 	margin-bottom:70px
 }
 .gallery-1 ul#isotope-filter{
-	background:#ffeb77;
+	background:#1a1472;
 	padding:16px 0 13px 30px
 }
 .gallery-1 ul#isotope-filter li{
@@ -2544,7 +2558,7 @@ frame{
 	margin:0 -2px
 }
 .gallery-1 ul#isotope-filter li a{
-	background:#ffeb77;
+	background:#1a1472;
 	border:0;
 	border-top:2px solid transparent;
 	color:#1a1472;
@@ -2613,7 +2627,7 @@ frame{
 	line-height:61px
 }
 .gallery-1-item-info{
-	background:#ffeb77;
+	background:#1a1472;
 	padding:20px
 }
 .gallery-1-item-title{
@@ -2643,7 +2657,7 @@ frame{
 	max-width:100%
 }
 .gallery-2-item-image-title{
-	background:#ffeb77;
+	background:#1a1472;
 	text-align:center;
 	font-size:13px;
 	padding:5px
@@ -2693,7 +2707,7 @@ frame{
 .prices-item-desc{
 	overflow:hidden;
 	background:#ebebeb;
-	border-bottom:1px solid #ffeb77
+	border-bottom:1px solid #1a1472
 }
 .prices-item-desc-image{
 	float:left;
@@ -2716,13 +2730,13 @@ frame{
 	width:100%
 }
 .prices-item-table-row{
-	border-bottom:1px solid #ffeb77;
+	border-bottom:1px solid #1a1472;
 	display:table-row;
 	width:100%;
 	height:50px
 }
 .prices-item-table-row.row-selected{
-	border:2px solid #ffd700
+	border:2px solid #1a1472
 }
 .prices-item-table-icons{
 	padding-left:10px;
@@ -2747,7 +2761,7 @@ frame{
 	text-align:right
 }
 .prices-item-table-cost-new{
-	color:#ffd700
+	color:#1a1472
 }
 .prices-item-table-cost-old{
 	color:#becacf;
@@ -2776,7 +2790,7 @@ frame{
 }
 .prices-item-offer-cost{
 	position:absolute;
-	background:#ffd700;
+	background:#1a1472;
 	color:#fff;
 	right:35px;
 	bottom:-20px;
@@ -2859,7 +2873,7 @@ frame{
 	display:inline-block
 }
 .map-info-phone i{
-	color:#ffd700
+	color:#1a1472
 }
 .map-info-mail{
 	overflow:hidden;
@@ -2884,7 +2898,7 @@ frame{
 .map-info-socials{
 	background:#ebebeb;
 	text-align:center;
-	border-top:1px solid #ffeb77;
+	border-top:1px solid #1a1472;
 	padding:30px
 }
 .map-info-socials a{
@@ -2900,7 +2914,7 @@ frame{
 	margin:0 2px
 }
 .map-info-socials a:hover{
-	background:#ffd700
+	background:#1a1472
 }
 .get{
 	padding:60px 0 70px 0
@@ -2959,7 +2973,7 @@ frame{
 	padding:70px 0
 }
 .tt-header{
-	background:#ffeb77;
+	background:#1a1472;
 	overflow:hidden;
 	border-bottom:3px solid #becacf
 }
@@ -3027,9 +3041,9 @@ frame{
 	float:left;
 	position:relative;
 	width:24%;
-	border-right:1px solid #ffeb77;
-	border-left:1px solid #ffeb77;
-	border-bottom:2px solid #ffeb77;
+	border-right:1px solid #1a1472;
+	border-left:1px solid #1a1472;
+	border-bottom:2px solid #1a1472;
 	padding:30px 25px;
 	height:107px
 }
@@ -3052,8 +3066,8 @@ frame{
 	width:14.285%;
 	font-size:12px;
 	color:#1a1472;
-	border-right:1px solid #ffeb77;
-	border-bottom:2px solid #ffeb77;
+	border-right:1px solid #1a1472;
+	border-bottom:2px solid #1a1472;
 	height:107px;
 	padding:15px
 }
@@ -3076,7 +3090,7 @@ frame{
 	margin:0 auto
 }
 .tt-row-item-close{
-	color:#ffeb77;
+	color:#1a1472;
 	font-size:30px;
 	width:55px;
 	height:55px;
@@ -3092,7 +3106,7 @@ frame{
 }
 .tt-row-item-close i{
 	float:none;
-	color:#ffeb77;
+	color:#1a1472;
 	margin:0
 }
 .tt-row-item-active:hover{
@@ -3232,7 +3246,7 @@ frame{
 }
 .makeform-container{
 	background:#ebebeb;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	border-radius:3px;
 	padding:60px 250px;
 	margin-bottom:100px
@@ -3290,7 +3304,7 @@ frame{
 .bookform-right .doctor-info{
 	background:#fff;
 	border:0;
-	border-left:1px solid #ffeb77
+	border-left:1px solid #1a1472
 }
 .bookform-right .doctor-info .doctor-info-hours-clock{
 	background:#fff
@@ -3311,7 +3325,7 @@ frame{
 	padding:115px 35px 0 0
 }
 .bookform.bookform-1 .bookform-right-info-1{
-	background:#ffd700;
+	background:#1a1472;
 	color:#fff;
 	font-size:12px;
 	padding:15px;
@@ -3329,7 +3343,7 @@ frame{
 	position:absolute;
 	pointer-events:none;
 	border-color:rgba(0,219,165,0);
-	border-right-color:#ffd700;
+	border-right-color:#1a1472;
 	border-width:8px
 }
 .bookform.bookform-1 .bookform-right-info-1 h5{
@@ -3346,7 +3360,7 @@ frame{
 	position:absolute;
 	top:0;
 	right:-55px;
-	color:#ffeb77;
+	color:#1a1472;
 	border:2px solid;
 	border-radius:50%;
 	width:40px;
@@ -3368,7 +3382,7 @@ frame{
 .selectBox-dropdown{
 	width:100%!important;
 	background:#fff;
-	border:2px solid #ffeb77;
+	border:2px solid #1a1472;
 	padding:15px 15px 15px 40px;
 	color:#1a1472
 }
@@ -3391,7 +3405,7 @@ frame{
 	font-size:18px
 }
 .selectBox-dropdown:focus{
-	border-color:#ffd700
+	border-color:#1a1472
 }
 .selectBox-dropdown-menu{
 	border-bottom-left-radius:3px;
@@ -3409,7 +3423,7 @@ frame{
 	background:#ebebeb
 }
 .comment{
-	border-top:1px solid #ffeb77;
+	border-top:1px solid #1a1472;
 	float:left;
 	margin-top:25px
 }
@@ -3423,7 +3437,7 @@ frame{
 }
 .comment-avatar img{
 	width:76px;
-	border:2px solid #ffeb77;
+	border:2px solid #1a1472;
 	border-radius:50%
 }
 .comment-body{
@@ -3504,7 +3518,7 @@ frame{
 	position:fixed;
 	top:320px;
 	background:#fff;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	z-index:1111;
 	box-shadow:0 0 6px 1px rgba(0,0,0,0.07);
 	left:-190px;
@@ -3513,7 +3527,7 @@ frame{
 	transition:all 200ms
 }
 .color-sw-header{
-	border-bottom:1px solid #ffeb77;
+	border-bottom:1px solid #1a1472;
 	padding:15px;
 	font-weight:600
 }
@@ -3571,7 +3585,7 @@ frame{
 	top:260px;
 	left:10px;
 	background:#fff;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	z-index:1111;
 	box-shadow:0 0 6px 1px rgba(0,0,0,0.07);
 	width:44px;
@@ -3584,7 +3598,7 @@ frame{
 }
 .color-sw-open-1{
 	background:#fff;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	box-shadow:0 0 6px 1px rgba(0,0,0,0.07);
 	width:44px;
 	height:44px;
@@ -3604,7 +3618,7 @@ frame{
 }
 .show-menu{
 	background:#fff;
-	border:1px solid #ffeb77;
+	border:1px solid #1a1472;
 	color:#1a1472;
 	box-shadow:0 0 6px 1px rgba(0,0,0,0.07);
 	width:44px;

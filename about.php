@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php include 'header.php';?>
 
-<title>DentalClinic - Responsive Clinic HTML Template</title>
+<title>Teeth Whitening Spa 2 - About</title>
 
 <div class="page-title page-title-about bg-pattern" data-bgcolor="1a1472">
 	<div class="page-title-overlay">
@@ -12,7 +12,7 @@
 	</div>
 </div>
 
-<div class="breadcrumbs">
+<!-- <div class="breadcrumbs">
 	<div class="container">
 		<div class="row">
 			<ol class="breadcrumb">
@@ -21,7 +21,7 @@
 			</ol>
 		</div>
 	</div>
-</div>
+</div> -->
 
 
 <div class="history">
@@ -104,7 +104,7 @@
 	</div>
 </div>
 
-<div class="tipsfaq">
+<div class="tipsfaq" >
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 tips">
