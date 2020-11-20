@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" type="image/png" href="images/logo.ico" />
+<link rel="icon" type="image/png" sizes="48x48" href="images/logo_m1.png" />
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
@@ -33,7 +33,7 @@
     <div class="row">
       <div class="col-lg-6 col-md-4 col-sm-5 col-xs-12">
         <div class="header-logo"> 
-          <a href="./index.php"><img src="images/logo_m1.jpg" alt="" /> Teeth Whitening Spa 2 </div>
+          <a href="./index.php"><img src="images/logo_m1.png" alt="" /> Teeth Whitening Spa 2 </div>
       </div>
       <div class="col-lg-6 col-md-8 col-sm-7 col-xs-12">
         <div class="header-button"> <a href="#bookform1" class="fancybox-2 btn btn-default"> <span class="plus"> + </span> MAKE AN APPOINTMENT</a> </div>
@@ -52,7 +52,7 @@
           <div class="top-menu-logo">Teeth Whitening Spa 2</div>
           <div class="mobile-bar">
             <div class="show-menu" id="show-menu"> <i class="fa fa-bars"></i> </div>
-            <div class="logo-for-mobile"> <a href="./index.php" title="#"> <img src="images/logo_m1.jpg" alt=""> </a> </div>
+            <div class="logo-for-mobile"> <a href="./index.php" title="#"> <img src="images/logo_m1.png" alt=""> </a> </div>
           </div>
         </div>
         <ul class="nav navbar-nav">
