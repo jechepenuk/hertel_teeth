@@ -413,7 +413,8 @@ frame{
 }
 .header-logo{
 	height:45px;
-	font-size:30px
+	font-size:30px;
+	font-family: 'Cabin', sans-serif; 
 }
 .header-logo img{
 	position:relative;
@@ -497,7 +498,8 @@ frame{
 	position:relative;
 	top:-2px;
 	margin-right:20px;
-	display:none
+	display:none;
+	font-family: 'Cabin', sans-serif;
 }
 .top-menu-logo img{
 	position:relative;
@@ -2024,6 +2026,10 @@ frame{
 	top:0;
 	height:100%;
 	padding:0
+}
+.footer-item-4 img{
+	height:100%;
+	width:100%;
 }
 .footer-copyright{
 	color:#acb8bc;

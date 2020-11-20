@@ -3,12 +3,13 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Creative Responsive Bootstrap Multi-Purpose HTML Template">
-<link rel="shortcut icon" href="images/favicon.ico">
+<link rel="icon" type="image/png" href="images/logo.ico" />
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 <link rel="stylesheet" type="text/css" href="css/master.css" />
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Cabin&display=swap" rel="stylesheet">
 </head>
 <body data-spy="scroll" data-target=".navbar">
 <div class="preloader" id="preloader"> <img src="images/preloader.gif" alt="" /> </div>
@@ -19,8 +20,10 @@
         <div class="top-bar-adress"> <i class="flaticon-navigation-arrow"></i> 1353 Hertel Avenue, Buffalo, NY 14216 </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-        <div class="top-bar-social"> <a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a> </div>
-        <div class="top-bar-mail"> <i class="fa fa-envelope"></i> <a href="#">hertelteeth@gmail.com</a> </div>
+        <div class="top-bar-social"> <a href="#"><i class="fa fa-facebook"></i>
+      <!-- </a><a href="#"><i class="fa fa-twitter"></i></a>  -->
+    </div>
+        <div class="top-bar-mail"> <i class="fa fa-envelope"></i> <a href="#">info@hertelteeth.com</a> </div>
       </div>
     </div>
   </div>
@@ -29,7 +32,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-4 col-sm-5 col-xs-12">
-        <div class="header-logo"> <a href="#"><img src="images/logo_m1.png" alt="" /> <span class="bold600 color-child-6">TEETH WHITENING SPA 2</span></a> </div>
+        <div class="header-logo"> 
+          <a href="./index.php"><img src="images/logo_m1.jpg" alt="" /> Teeth Whitening Spa 2 </div>
       </div>
       <div class="col-lg-6 col-md-8 col-sm-7 col-xs-12">
         <div class="header-button"> <a href="#bookform1" class="fancybox-2 btn btn-default"> <span class="plus"> + </span> MAKE AN APPOINTMENT</a> </div>
@@ -45,10 +49,10 @@
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <div class="mobile-bar-cont">
-          <div class="top-menu-logo"> <a href="#"> <span class="bold600 color-child-6">Teeth Whitening Spa 2</span></a> </div>
+          <div class="top-menu-logo">Teeth Whitening Spa 2</div>
           <div class="mobile-bar">
             <div class="show-menu" id="show-menu"> <i class="fa fa-bars"></i> </div>
-            <div class="logo-for-mobile"> <a href="#" title="#"> <img src="images/logo_m1.png" alt=""> </a> </div>
+            <div class="logo-for-mobile"> <a href="./index.php" title="#"> <img src="images/logo_m1.jpg" alt=""> </a> </div>
           </div>
         </div>
         <ul class="nav navbar-nav">

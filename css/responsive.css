@@ -49,6 +49,9 @@
 	font-size:16px;
 	padding:5px 16px
 }
+.footer-item-4{
+	display:none;
+}
 .header-button .btn{
 	padding:7px 16px;
 	font-size:15px

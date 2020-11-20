@@ -44,13 +44,17 @@
         </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 footer-item footer-item-3 footer-matchheight" id="footer-item-3">
-        <h3 class="footer-title"><i class="fa fa-map-marker"></i> CONTACTS</h3>
-        <div class="footer-item-3-phone"> <i class="fa fa-phone"></i> 120 852-4632 </div>
-        <div class="footer-item-3-location"> <i class="flaticon-navigation-arrow"></i> Henderson Blvd PO Box 356012, Tampa, FL 54452 </div>
-        <div class="footer-item-3-mail"> <i class="fa fa-envelope"></i> <a href="#">office@dental.com</a> </div>
-        <div class="footer-item-3-socials"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-skype"></i></a> </div>
+        <h3 class="footer-title"><i class="fa fa-map-marker"></i> CONTACT</h3>
+        <div class="footer-item-3-phone"> <i class="fa fa-phone"></i> 716 697-0679 </div>
+        <div class="footer-item-3-location"> <i class="flaticon-navigation-arrow"></i> 1353 Hertel Avenue, Buffalo, NY 14216 </div>
+        <div class="footer-item-3-mail"> <i class="fa fa-envelope"></i> <a href="#">info@hertelteeth.com</a> </div>
+        <div class="footer-item-3-socials"> <a href="#"><i class="fa fa-facebook"></i>
+      <!-- </a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-skype"></i></a>  -->
+    </div>
       </div>
-      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 footer-item footer-item-4 footer-matchheight" id="footer-item-4"> </div>
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 footer-item footer-item-4 footer-matchheight" id="footer-item-4">
+        <img src="images/logo_m1.jpg">
+      </div>
     </div>
   </div>
 </div>
@@ -507,24 +511,7 @@
     </div>
   </div>
 </div>
-<div class="color-sw" id="color-sw">
-  <div class="color-sw-header"> Style switcher <span class="color-sw-close" id="color-sw-close"> <i class="fa fa-close"></i> </span> </div>
-  <div class="color-sw-body">
-    <p>Choose color style</p>
-    <div class="color-sw-item active" id="blue">
-      <div></div>
-    </div>
-    <div class="color-sw-item" id="violet">
-      <div></div>
-    </div>
-    <div class="color-sw-item" id="red">
-      <div></div>
-    </div>
-    <div class="color-sw-item" id="green">
-      <div></div>
-    </div>
-  </div>
-</div>
+
 <div class="totop" id="totop"> <i class="fa fa-angle-up"></i></div>
 <link rel="stylesheet" type="text/css" href="css/responsive.css" />
 <script src="js/jquery-2.2.0.min.js"></script> 
@@ -543,4 +530,3 @@
 <script src="js/jquery.matchHeight.js"></script> 
 <script src="js/imagesloaded.pkgd.min.js"></script> 
 <script src="js/theme.js"></script> 
-<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyC1N87a_NHjocaepKKcovPAYTMUkJBr9pQ&amp;language=en&amp;sensor=true"></script>
