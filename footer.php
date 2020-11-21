@@ -47,7 +47,7 @@
         <h3 class="footer-title"><i class="fa fa-map-marker"></i> CONTACT</h3>
         <div class="footer-item-3-phone"> <i class="fa fa-phone"></i> 716 697-0679 </div>
         <div class="footer-item-3-location"> <i class="flaticon-navigation-arrow"></i> 1353 Hertel Avenue, Buffalo, NY 14216 </div>
-        <div class="footer-item-3-mail"> <i class="fa fa-envelope"></i> <a href="#">info@hertelteeth.com</a> </div>
+        <div class="footer-item-3-mail"> <i class="fa fa-envelope"></i>info@hertelteeth.com</div>
         <div class="footer-item-3-socials"> <a href="#"><i class="fa fa-facebook"></i>
       <!-- </a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-skype"></i></a>  -->
     </div>

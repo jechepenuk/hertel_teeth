@@ -49,7 +49,7 @@
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <div class="mobile-bar-cont">
-          <div class="top-menu-logo">Teeth Whitening Spa 2</div>
+          <div class="top-menu-logo"><a href="./index.php">Teeth Whitening Spa 2</a></div>
           <div class="mobile-bar">
             <div class="show-menu" id="show-menu"> <i class="fa fa-bars"></i> </div>
             <div class="logo-for-mobile"> <a href="./index.php" title="#"> <img src="images/logo_m1.png" alt=""> </a> </div>

@@ -447,6 +447,7 @@ frame{
 .header-button .btn{
 	padding:9px 23px;
 	color:white;
+	border: 1px solid #1a1472;
 }
 .header-button .plus{
 	line-height:0;
@@ -456,9 +457,7 @@ frame{
 	left:-7px
 }
 .header-button .btn:hover{
-	background:white;
-	color:#1a1472;
-	border: 1px solid #1a1472;
+	background:#1a14729f;
 }
 .logo-for-mobile{
 	float:left;
@@ -1999,7 +1998,8 @@ frame{
 }
 .footer-item-3-mail{
 	font-size:13px;
-	margin-bottom:20px
+	margin-bottom:20px;
+	color:white;
 }
 .footer-item-3-mail a{
 	color:white
