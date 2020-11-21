@@ -9,25 +9,23 @@
         <h3 class="sp-layer slider-welcome" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="-370" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="0" data-hide-delay="0"> Welcome Dental Clinic </h3>
+                        data-show-delay="0" data-hide-delay="0"> Teeth Whitening Spa 2 </h3>
         <h1 class="sp-layer slider-title" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="-230" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="200" data-hide-delay="200"> It is quite simple! </h1>
+                        data-show-delay="200" data-hide-delay="200">Whiter teeth</h1>
         <h2 class="sp-layer slider-subtitle" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="400" data-hide-delay="400"> You choose convenient time! </h2>
+                        data-show-delay="400" data-hide-delay="400">in less than an hour </h2>
         <p class="sp-layer slider-text" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="80" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="600" data-hide-delay="600"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor<br>
-          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos-<br>
-          trud exercitation ullamco laboris. </p>
+                        data-show-delay="600" data-hide-delay="600">Set up an appintment easily today by calling or visiting the<br>scheduling tab.</p>
         <p class="sp-layer slider-button" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="300" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="800" data-hide-delay="800"> <a href="#" class="btn btn-primary">READ MORE</a> </p>
+                        data-show-delay="800" data-hide-delay="800"> <a href="#" class="btn btn-primary">SCHEDULE NOW</a> </p>
       </div>
     </div>
     <div class="sp-slide"> <img class="sp-image" src="css/images/blank.gif" alt=""
@@ -36,25 +34,23 @@
         <h3 class="sp-layer slider-welcome" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="-370" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="0" data-hide-delay="0"> Healthy kids </h3>
+                        data-show-delay="0" data-hide-delay="0"> our procedures </h3>
         <h1 class="sp-layer slider-title" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="-230" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="200" data-hide-delay="200"> Our concern </h1>
+                        data-show-delay="200" data-hide-delay="200">immediate results</h1>
         <h2 class="sp-layer slider-subtitle" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="400" data-hide-delay="400"> Discount for children $99 </h2>
+                        data-show-delay="400" data-hide-delay="400"> Pain free and enamel safe</h2>
         <p class="sp-layer slider-text" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="80" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="600" data-hide-delay="600"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor<br>
-          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos-<br>
-          trud exercitation ullamco laboris. </p>
+                        data-show-delay="600" data-hide-delay="600">Our clients' results develop over twenty-four hours. Choose one of our packages<br>including touch-ups to ensure your teeth stay brighter, longer.</p>
         <p class="sp-layer slider-button" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="300" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="800" data-hide-delay="800"> <a href="#" class="btn btn-primary">READ MORE</a> </p>
+                        data-show-delay="800" data-hide-delay="800"> <a href="#" class="btn btn-primary">SERVICES</a> </p>
       </div>
     </div>
     <div class="sp-slide"> <img class="sp-image" src="css/images/blank.gif" alt=""
@@ -63,25 +59,23 @@
         <h3 class="sp-layer slider-welcome" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="-370" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="0" data-hide-delay="0"> A beautiful smile is our task! </h3>
+                        data-show-delay="0" data-hide-delay="0"> A beautiful smile is our goal! </h3>
         <h1 class="sp-layer slider-title" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="-230" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="200" data-hide-delay="200"> Dental services </h1>
+                        data-show-delay="200" data-hide-delay="200">Holiday Spcial</h1>
         <h2 class="sp-layer slider-subtitle" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="400" data-hide-delay="400"> Healthy teeth - healthy body </h2>
+                        data-show-delay="400" data-hide-delay="400">Book now for a great deal</h2>
         <p class="sp-layer slider-text" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="80" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="600" data-hide-delay="600"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor<br>
-          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos-<br>
-          trud exercitation ullamco laboris. </p>
+                        data-show-delay="600" data-hide-delay="600">Let your smile be the first thing people notice about you. <br> Book a holiday speical below today for free touch-ups<br>and BOGO whitening sessions.</p>
         <p class="sp-layer slider-button" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="300" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="800" data-hide-delay="800"> <a href="#" class="btn btn-primary">READ MORE</a> </p>
+                        data-show-delay="800" data-hide-delay="800"> <a href="#" class="btn btn-primary">HOLIDAY DEALS</a> </p>
       </div>
     </div>
   </div>

@@ -529,13 +529,14 @@
 .booking-form-item textarea{
 	height:120px!important
 }
-.slider .container{
-	display:none
-}
+
 .service{
 	display:block
 }
-	
+.slider-text{
+	font-size:15px;
+	line-height:28px
+}	
 }
 @media(max-width:500px){
 .top-bar-social i{
@@ -554,9 +555,7 @@
 .service{
 	display:block
 }
-.slider .container{
-	display:none
-}
+
 .review-item-text,.owl-review2 .review-item-name,.owl-review2 .review-item-position{
 	padding-left:15px!important
 }
