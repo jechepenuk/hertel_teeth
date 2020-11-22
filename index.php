@@ -18,10 +18,12 @@
                         data-position="leftCenter" data-horizontal="15" data-vertical="-120" 
                         data-show-transition="left" data-hide-transition="left"
                         data-show-delay="400" data-hide-delay="400">in less than an hour </h2>
+        <div id="mobiletext">
         <p class="sp-layer slider-text" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="80" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="600" data-hide-delay="600">Set up an appintment easily today by calling or visiting the<br>scheduling tab.</p>
+                        data-show-delay="600" data-hide-delay="600">Set up an appintment easily today by calling<br>or by clicking below.</p>
+        </div>
         <p class="sp-layer slider-button" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="300" 
                         data-show-transition="left" data-hide-transition="left"
@@ -46,7 +48,7 @@
         <p class="sp-layer slider-text" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="80" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="600" data-hide-delay="600">Our clients' results develop over twenty-four hours. Choose one of our packages<br>including touch-ups to ensure your teeth stay brighter, longer.</p>
+                        data-show-delay="600" data-hide-delay="600">Our clients' results develop over twenty-four hours.<br>Choose one of our packages including touch-ups to<br>ensure your teeth stay brighter, longer.</p>
         <p class="sp-layer slider-button" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="300" 
                         data-show-transition="left" data-hide-transition="left"
@@ -71,7 +73,7 @@
         <p class="sp-layer slider-text" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="80" 
                         data-show-transition="left" data-hide-transition="left"
-                        data-show-delay="600" data-hide-delay="600">Let your smile be the first thing people notice about you. <br> Book a holiday speical below today for free touch-ups<br>and BOGO whitening sessions.</p>
+                        data-show-delay="600" data-hide-delay="600">Let your smile be the first thing people notice <br>about you. Book a holiday special below today<br> for free touch-ups and BOGO whitening<br>sessions.</p>
         <p class="sp-layer slider-button" 
                         data-position="leftCenter" data-horizontal="15" data-vertical="300" 
                         data-show-transition="left" data-hide-transition="left"
@@ -485,7 +487,7 @@
     </div>
   </div>
 </div> -->
-<div class="tipsfaq">
+<div class="tipsfaq bg-pattern" data-bgcolor="1a1472">
   <div class="container">
     <div class="row">
       <!-- <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 tips">
@@ -575,7 +577,7 @@
       </div> -->
       <!-- <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 faq"> -->
       <div class="col-md-12 faq">
-        <h2 class="section-title"> <span class="bold700"> FAQ </span> </h2>
+        <h2 class="section-title2"> <span class="bold700"> FAQ </span> </h2>
         <div class="panel-group" id="accordion">
           <div class="panel panel-default">
             <div class="panel-heading">
@@ -603,7 +605,7 @@
           </div>
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" class="collapsed"> <i class="fa fa-question-circle"></i>SHould I get a dental cleaning before my appointment?</a> </h4>
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" class="collapsed"> <i class="fa fa-question-circle"></i>Should I get a dental cleaning before my<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;appointment?</a> </h4>
             </div>
             <div id="collapseFour" class="panel-collapse collapse">
               <div class="panel-body"> Dental implant placement is no longer performed only by oral surgeons and periodontists; general dentists are also increasingly providing difficult surgical implant services. Dental implants may be used to replace single teeth, replace multiple teeth, or provide abutments for complete dentures or partials. This topic focuses on the placement of single-tooth dental implants. </div>

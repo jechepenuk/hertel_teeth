@@ -540,10 +540,16 @@
 }
 @media(max-width:500px){
 .top-bar-social i{
-	margin-left:10px
+	font-size:20px;
+	margin-right: 10px;
+
 }
 .top-bar{
 	font-size:10px
+}
+
+.collapsed{
+	font-size: 13px !important;
 }
 .top-menu-logo{
 	font-size:18px;
@@ -552,8 +558,12 @@
 .bookform-left{
 	width:280px
 }
+
 .service{
 	display:block
+}
+.slider-text{
+	font-size: 20px;
 }
 
 .review-item-text,.owl-review2 .review-item-name,.owl-review2 .review-item-position{

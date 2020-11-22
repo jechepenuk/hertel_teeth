@@ -46,6 +46,11 @@ h1,h2,h3,h4,h5,h6{
 	margin-bottom:35px;
 	text-transform:uppercase
 }
+.section-title2{
+	color:white;
+	margin-bottom:35px;
+	text-transform:uppercase
+}
 .section-subtitle{
 	font-size:15px;
 	margin-bottom:60px
@@ -1947,7 +1952,7 @@ frame{
 }
 .footer{
 	position:relative;
-	background:#1a1472
+	background:#0d0327;
 }
 .footer a{
 	color:#1a1472
@@ -1963,13 +1968,13 @@ frame{
 	margin-bottom:20px
 }
 .footer-title i{
-	margin-right:5px
+	margin-right:5px;
 }
 .footer-title-line{
-	border-bottom:1px solid #1a1472
+	border-bottom:1px solid #ffffff
 }
 .footer-title-line i{
-	color:#1a1472
+	color:white;
 }
 .footer-item{
 	padding:70px 30px 25px
@@ -1979,7 +1984,7 @@ frame{
 	padding-left:15px
 }
 .footer-item-2{
-	padding-left:15px
+	padding-left:15px;
 }
 .footer-item-3{
 	padding:70px 30px 110px;
