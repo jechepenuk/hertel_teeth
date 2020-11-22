@@ -1746,13 +1746,17 @@ frame{
 	overflow:hidden;
 	background:#ffffff
 }
+
 .tips-tabs .tabs-carousel{
 	position:absolute;
 	left:30px;
 	top:0;
 	width:100%;
 	transition:left 200ms;
-	color:white
+	color:white !important;
+}
+.tips-tabs ul li a{
+	color:white;
 }
 .tips-btn{
 	position:absolute;
@@ -1767,11 +1771,12 @@ frame{
 	cursor:pointer
 }
 .tips-btn:hover,.tips-btn:focus{
-	background:#ebebeb
+	background:#1a1472ab
 }
 .tips-next{
 	right:0
 }
+
 .tips-prev{
 	left:0
 }
@@ -1843,7 +1848,7 @@ frame{
 }
 .nav-tabs li a:hover,.nav-tabs li a:focus{
 	border:0;
-	background:#e7e7e7;
+	background:#1a1472ab;
 	border-top:2px solid transparent
 }
 .nav-tabs li.active a{

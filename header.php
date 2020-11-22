@@ -20,10 +20,11 @@
         <div class="top-bar-adress"> <i class="flaticon-navigation-arrow"></i> 1353 Hertel Avenue, Buffalo, NY 14216 </div>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-        <div class="top-bar-social"> <a href="#"><i class="fa fa-facebook"></i>
-      <!-- </a><a href="#"><i class="fa fa-twitter"></i></a>  -->
-    </div>
-        <div class="top-bar-mail"> <i class="fa fa-envelope"></i> <a href="#">info@hertelteeth.com</a> </div>
+        <div class="top-bar-social"> 
+          <a href="http://www.facebook.com/TeethWhiteningHertel" target="_blank"><i class="fa fa-facebook"></i></a>
+          <a href="http://www.instagram.com/teethwhiteningspahertel" target="_blank"><i class="fa fa-instagram"></i></a> 
+      </div>
+      <div class="top-bar-mail"> <i class="fa fa-envelope"></i>ashley.teethwhiteningspa2@gmail.com</div>
       </div>
     </div>
   </div>

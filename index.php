@@ -82,46 +82,46 @@
 </div>
 <div class="services" id="services">
   <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-primary-2">
-    <div class="service-icon"> <i class="flaticon-medical-1"></i> </div>
+    <div class="service-icon"> <i class="flaticon-dental-chair"></i> </div>
     <div class="service-title">
-      <h3>teeth whitening</h3>
+      <h3>Pain Free</h3>
     </div>
-    <div class="service-text"> Tooth whitening can be a very effective way of lightening the natural colour of your teeth without removing any of the tooth surface. </div>
+    <div class="service-text">Leave your anxiety at home! We offer pleasant experiences for all.</div>
   </div>
   <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-2">
-    <div class="service-icon"> <i class="flaticon-medical-2"></i> </div>
+    <div class="service-icon"> <i class="flaticon-medical-1"></i> </div>
     <div class="service-title">
-      <h3>implants</h3>
+      <h3>enamel safe</h3>
     </div>
-    <div class="service-text"> Dental implants may be an option for people who have lost a tooth or teeth due to periodontal disease, an injury, or some other reason. </div>
+    <div class="service-text">Tooth sensitivity is a thing of the past!</div>
   </div>
   <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-3">
-    <div class="service-icon"> <i class="flaticon-tool"></i> </div>
+    <div class="service-icon"> <i class="flaticon-medal-1"></i> </div>
     <div class="service-title">
-      <h3>extractions</h3>
+      <h3>immediate results</h3>
     </div>
-    <div class="service-text"> In orthodontics if the teeth are crowded, sound teeth may be extracted to create space so the rest of the teeth can be straightened. </div>
+    <div class="service-text">Our services take about 45 minutes to complete, we will work around your schedule!</div>
   </div>
   <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 service bg-child-4">
     <div class="service-icon"> <i class="flaticon-medical"></i> </div>
     <div class="service-title">
-      <h3>gum disease</h3>
+      <h3>stain removal</h3>
     </div>
-    <div class="service-text"> Plaque is the primary cause of gum disease. However, other factors can contribute to periodontal disease. </div>
+    <div class="service-text">Results develop over 24 hours. The best is yet to come!</div>
   </div>
 </div>
 <div class="about">
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 about-text">
-        <h2 class="section-title"> <span class="bold700"> ABOUT </span> OUR CLINIC</h2>
-        <p>We provide team-based, comprehensive dental care for children and adults, including patients of all ages who are anxious or have an underlying developmental or medical condition that may add complexity to the management of their oral health.</p>
+        <h2 class="section-title"> <span class="bold700"> ABOUT </span> OUR SPA</h2>
+        <p>We offer teeth whitening services in a comfortable environment.</p>
         <ul class="text-list">
-          <li>General Dentistry - preventative and restorative dental care.</li>
-          <li>Specialized dental care to straighten crooked teeth in children and adults. </li>
-          <li>Treat diseases of the gums and the placement of dental implants.</li>
+          <li>Inital Whitening: for first timers, or those who have not visited in over 6 months.</li>
+          <li>Touch Ups: for those who notice some residual discoloration from a recent appointment. </li>
+          <li>The Packaged Deal: Why not both?! Save time and money by including touch ups in your teeth whitening package.</li>
         </ul>
-        <p>We are committed to helping you maintain your oral health as an integral part of your overall health and wellness. <a href="#">Read more &gt;</a></p>
+        <p></p>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 about-bg"> </div>
     </div>
@@ -307,8 +307,8 @@
         <div class="owl-stories" id="owl-stories">
           <div class="stories-item">
             <div class="col-lg-4 col-md-5 col-sm-5 col-xs-12">
-              <div class="stories-item-name"> Jeanette Evvie </div>
-              <div class="stories-item-position"> Student </div>
+              <div class="stories-item-name"> Samantha B </div>
+              <div class="stories-item-position"> </div>
               <div class="stories-item-rating">
                 <select id="stories-rating-1" name="stories-rating-1">
                   <option value="1">1</option>
@@ -320,7 +320,7 @@
               </div>
               <div class="stories-item-text">
                 <div class="stories-item-text-quote"><img src="images/quote.png" alt="" /></div>
-                My visits to Dental clinic is always more than just a pleasant experience! I had my cleaning done by Arnie Alban and she did an absolutely impeccable job!! She meticulously and patiently removed the most stubborn stains without causing any discomfort! If you are seeking perfection, then I highly recommend Arnie! </div>
+                I LOVE ASHLEY! I won her giveaway years ago and have gone back 10 times since. She is considerate, professional, and passionate about her clients outcome. She is very results driven! Highly recommend!</div>
               <div class="stories-item-desc"> Tooth whitening can be a very effective way of lightening the natural colour of your teeth without removing any of the tooth surface.
                 <ul>
                   <li>Teeth whitening</li>
@@ -376,7 +376,7 @@
     </div>
   </div>
 </div>
-<div class="review">
+<!-- <div class="review">
   <div class="container">
     <div class="row">
       <h2 class="section-title"> <span class="bold700"> TESTIMONIALS </span> </h2>
@@ -418,8 +418,8 @@
       </div>
     </div>
   </div>
-</div>
-<div class="blog">
+</div> -->
+<!-- <div class="blog">
   <div class="container">
     <div class="row">
       <h2 class="section-title">LATEST <span class="bold700"> NEWS </span> </h2>
@@ -484,11 +484,11 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <div class="tipsfaq">
   <div class="container">
     <div class="row">
-      <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 tips">
+      <!-- <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 tips">
         <h2 class="section-title"> <span class="bold700"> TOP TIPS </span> FROM DOCTORS</h2>
         <div class="tips-tabs">
           <ul class="nav nav-tabs tabs-carousel">
@@ -572,21 +572,22 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 faq">
+      </div> -->
+      <!-- <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 faq"> -->
+      <div class="col-md-12 faq">
         <h2 class="section-title"> <span class="bold700"> FAQ </span> </h2>
         <div class="panel-group" id="accordion">
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"> <i class="fa fa-heartbeat"></i> Surgical implant placements </a> </h4>
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="collapsed"> <i class="fa fa-question-circle"></i>How should I prepare for an appointment?</a> </h4>
             </div>
-            <div id="collapseOne" class="panel-collapse collapse in">
+            <div id="collapseOne" class="panel-collapse collapse">
               <div class="panel-body"> Dental implant placement is no longer performed only by oral surgeons and periodontists; general dentists are also increasingly providing difficult surgical implant services. Dental implants may be used to replace single teeth, replace multiple teeth, or provide abutments for complete dentures or partials. This topic focuses on the placement of single-tooth dental implants. </div>
             </div>
           </div>
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="collapsed"> <i class="fa fa-medkit"></i> Teeth whitening </a> </h4>
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="collapsed"> <i class="fa fa-question-circle"></i>Can I eat/drink after a whitening session?</a> </h4>
             </div>
             <div id="collapseTwo" class="panel-collapse collapse">
               <div class="panel-body"> Dental implant placement is no longer performed only by oral surgeons and periodontists; general dentists are also increasingly providing difficult surgical implant services. Dental implants may be used to replace single teeth, replace multiple teeth, or provide abutments for complete dentures or partials. This topic focuses on the placement of single-tooth dental implants. </div>
@@ -594,7 +595,7 @@
           </div>
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" class="collapsed"> <i class="fa fa-life-bouy"></i> Teeth cleaning </a> </h4>
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" class="collapsed"> <i class="fa fa-question-circle"></i>How long should I expect my results to last?</a> </h4>
             </div>
             <div id="collapseThree" class="panel-collapse collapse">
               <div class="panel-body"> Dental implant placement is no longer performed only by oral surgeons and periodontists; general dentists are also increasingly providing difficult surgical implant services. Dental implants may be used to replace single teeth, replace multiple teeth, or provide abutments for complete dentures or partials. This topic focuses on the placement of single-tooth dental implants. </div>
@@ -602,7 +603,7 @@
           </div>
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" class="collapsed"> <i class="fa fa-flask"></i> X-rays </a> </h4>
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" class="collapsed"> <i class="fa fa-question-circle"></i>SHould I get a dental cleaning before my appointment?</a> </h4>
             </div>
             <div id="collapseFour" class="panel-collapse collapse">
               <div class="panel-body"> Dental implant placement is no longer performed only by oral surgeons and periodontists; general dentists are also increasingly providing difficult surgical implant services. Dental implants may be used to replace single teeth, replace multiple teeth, or provide abutments for complete dentures or partials. This topic focuses on the placement of single-tooth dental implants. </div>
@@ -610,7 +611,7 @@
           </div>
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" class="collapsed"> <i class="fa fa-ambulance"></i> Crowns </a> </h4>
+              <h4 class="panel-title"> <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" class="collapsed"> <i class="fa fa-question-circle"></i> Will teeth whitening work on my veneers? </a> </h4>
             </div>
             <div id="collapseFive" class="panel-collapse collapse">
               <div class="panel-body"> Dental implant placement is no longer performed only by oral surgeons and periodontists; general dentists are also increasingly providing difficult surgical implant services. Dental implants may be used to replace single teeth, replace multiple teeth, or provide abutments for complete dentures or partials. This topic focuses on the placement of single-tooth dental implants. </div>

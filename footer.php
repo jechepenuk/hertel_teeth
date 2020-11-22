@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-matchheight">
         <div class="row">
-          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-item footer-item-1">
+          <!-- <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-item footer-item-1">
             <h3 class="footer-title footer-title-line"><i class="fa fa-twitter"></i> LATEST TWEETS</h3>
             <div class="tweet">
               <div class="tweet-login"> <a href="#">@DentalClinic</a> </div>
@@ -20,9 +20,9 @@
               <div class="tweet-text"> Lorem ipsum dolro lobortis quobortisnissim pulvinar ac Lorem. </div>
               <div class="tweet-date"> 03.10.2016 </div>
             </div>
-          </div>
+          </div> -->
           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-item footer-item-2">
-            <h3 class="footer-title footer-title-line"><i class="fa fa-clock-o"></i> OPENING HOURS</h3>
+            <h3 class="footer-title footer-title-line"><i class="fa fa-clock-o"></i> BUSINESS HOURS</h3>
             <div class="opening-left"> Monday<br>
               Tuesday<br>
               Wednesday<br>
@@ -47,10 +47,11 @@
         <h3 class="footer-title"><i class="fa fa-map-marker"></i> CONTACT</h3>
         <div class="footer-item-3-phone"> <i class="fa fa-phone"></i> 716 697-0679 </div>
         <div class="footer-item-3-location"> <i class="flaticon-navigation-arrow"></i> 1353 Hertel Avenue, Buffalo, NY 14216 </div>
-        <div class="footer-item-3-mail"> <i class="fa fa-envelope"></i>info@hertelteeth.com</div>
-        <div class="footer-item-3-socials"> <a href="#"><i class="fa fa-facebook"></i>
-      <!-- </a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-skype"></i></a>  -->
-    </div>
+        <div class="footer-item-3-mail"> <i class="fa fa-envelope"></i>ashley.teethwhiteningspa2@gmail.com</div>
+        <div class="footer-item-3-socials"> 
+          <a href="http://www.facebook.com/TeethWhiteningHertel" target="_blank"><i class="fa fa-facebook"></i></a>
+          &nbsp;&nbsp;&nbsp;
+          <a href="http://www.instagram.com/teethwhiteningspahertel" target="_blank"><i class="fa fa-instagram"></i></a>     </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 footer-item footer-item-4 footer-matchheight" id="footer-item-4">
         <img src="images/logo_m1.jpg">
